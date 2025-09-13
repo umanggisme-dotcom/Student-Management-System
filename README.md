@@ -65,10 +65,4 @@ Contributions are welcome! Feel free to fork this repository, open issues, and s
 
 ---
 
-## 📜 License
 
-This project is licensed under the **MIT License** – you are free to use, modify, and distribute it.
-
----
-
-Would you like me to also **add badges (build, license, Java version, etc.)** at the top of the README to make it look more professional?
